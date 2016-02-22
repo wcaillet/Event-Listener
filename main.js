@@ -1,4 +1,4 @@
-// GO! Event-listeners Homework wk3
+// GO! Event-listeners Homework week3
 
 // ***   Task 1  ***  //
 // 	- Test to see if button works. It does. Yay. 
