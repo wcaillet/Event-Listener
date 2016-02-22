@@ -88,7 +88,17 @@ hr.q-divider{
 }
 
 /*TASK 1*/
+input[type="button"] {
+  border: 1px solid black;
+  background: yellow;
+  width:100px;
+  height:50px;
+  margin:50px auto;
+  border: 3px solid #555;
+  display:block;
+}
 
+/* */
 .nav-menu {
   visibility: visible;
   opacity: 1;
@@ -115,9 +125,18 @@ hr.q-divider{
 
 /*TASK 2*/
 
+#itemsList {
+  text-align: left;
+}
+
+li { background: none; }
+li:nth-child(odd) { background: pink; }
+
+/* */
 #add-guest .answer-box {
   text-align: center;
 }
+
 #add-guest input {
   display: block;
   margin: 15px auto;
@@ -143,7 +162,14 @@ hr.q-divider{
 }
 
 /*TASK 3*/
+#itemsList3 {
+  text-align: left;
+}
 
+li { background: none; }
+li:nth-child(odd) { background: pink; }
+
+/* */
 #add-guest-bonus .answer-box {
   text-align: center;
 }
